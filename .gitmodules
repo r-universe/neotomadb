@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "neotoma2"]
 	path = neotoma2
 	url = https://github.com/neotomadb/neotoma2
-	shallow = true
-	registered = true
